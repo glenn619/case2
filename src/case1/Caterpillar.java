@@ -7,7 +7,7 @@ public class Caterpillar {
 		this.cabages=cabages;
 		this.moves=moves;
 	}
-	 int get_moves{
-		 
+	 int get_moves(){
+		  return moves;
 	 }
 }
